@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSA.CS.Welcome", "MSSA.CS.Welcome.csproj", "{4B9AF4BA-CB02-4D77-AEE3-F6E1646CA1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9AF4BA-CB02-4D77-AEE3-F6E1646CA1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9AF4BA-CB02-4D77-AEE3-F6E1646CA1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9AF4BA-CB02-4D77-AEE3-F6E1646CA1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9AF4BA-CB02-4D77-AEE3-F6E1646CA1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65A1E917-1AF9-4FD6-80B0-9B65FD14E432}
+	EndGlobalSection
+EndGlobal

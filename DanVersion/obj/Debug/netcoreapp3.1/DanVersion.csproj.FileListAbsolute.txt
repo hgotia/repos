@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\DanVersion\bin\Debug\netcoreapp3.1\DanVersion.exe
+C:\Users\TIM ASUS\source\repos\DanVersion\bin\Debug\netcoreapp3.1\DanVersion.deps.json
+C:\Users\TIM ASUS\source\repos\DanVersion\bin\Debug\netcoreapp3.1\DanVersion.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\DanVersion\bin\Debug\netcoreapp3.1\DanVersion.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\DanVersion\bin\Debug\netcoreapp3.1\DanVersion.dll
+C:\Users\TIM ASUS\source\repos\DanVersion\bin\Debug\netcoreapp3.1\DanVersion.pdb
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.dll
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.pdb
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.genruntimeconfig.cache
+C:\Users\TIM ASUS\source\repos\DanVersion\obj\Debug\netcoreapp3.1\DanVersion.csprojAssemblyReference.cache

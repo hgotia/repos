@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.exe
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.deps.json
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.pdb
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.pdb
+C:\Users\TIM ASUS\source\repos\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.genruntimeconfig.cache

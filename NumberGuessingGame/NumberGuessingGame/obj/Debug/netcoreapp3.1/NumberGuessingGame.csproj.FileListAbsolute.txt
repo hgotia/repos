@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.exe
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.deps.json
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.dll
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+C:\Users\TIM ASUS\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.genruntimeconfig.cache

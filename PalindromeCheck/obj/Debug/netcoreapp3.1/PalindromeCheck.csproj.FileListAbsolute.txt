@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\bin\Debug\netcoreapp3.1\PalindromeCheck.exe
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\bin\Debug\netcoreapp3.1\PalindromeCheck.deps.json
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\bin\Debug\netcoreapp3.1\PalindromeCheck.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\bin\Debug\netcoreapp3.1\PalindromeCheck.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\bin\Debug\netcoreapp3.1\PalindromeCheck.dll
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\bin\Debug\netcoreapp3.1\PalindromeCheck.pdb
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.dll
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.pdb
+C:\Users\TIM ASUS\source\repos\PalindromeCheck\obj\Debug\netcoreapp3.1\PalindromeCheck.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\TIM ASUS\source\repos\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources

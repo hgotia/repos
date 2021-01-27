@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\bin\Debug\netcoreapp3.1\CompareTwoNums.exe
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\bin\Debug\netcoreapp3.1\CompareTwoNums.deps.json
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\bin\Debug\netcoreapp3.1\CompareTwoNums.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\bin\Debug\netcoreapp3.1\CompareTwoNums.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\bin\Debug\netcoreapp3.1\CompareTwoNums.dll
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\bin\Debug\netcoreapp3.1\CompareTwoNums.pdb
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.dll
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.pdb
+C:\Users\TIM ASUS\source\repos\CompareTwoNums\obj\Debug\netcoreapp3.1\CompareTwoNums.genruntimeconfig.cache

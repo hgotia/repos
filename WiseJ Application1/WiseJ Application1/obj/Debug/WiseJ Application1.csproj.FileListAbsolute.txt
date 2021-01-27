@@ -1,0 +1,18 @@
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\WiseJ Application1.dll.config
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\WiseJ Application1.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\WiseJ Application1.pdb
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\Wisej.Framework.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\Wisej.Framework.xml
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\de\Wisej.Framework.resources.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\fr\Wisej.Framework.resources.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\it\Wisej.Framework.resources.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\pt\Wisej.Framework.resources.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\bin\tr\Wisej.Framework.resources.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ Application1.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ_Application1.Window1.resources
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ Application1.csproj.GenerateResource.cache
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ Application1.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ Application1.csproj.CopyComplete
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ Application1.dll
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ Application1.pdb
+C:\Users\TIM ASUS\source\repos\WiseJ Application1\WiseJ Application1\obj\Debug\WiseJ_Application1.Properties.Resources.resources

@@ -1,0 +1,12 @@
+C:\Users\TIM ASUS\source\repos\IsOdd\obj\Debug\netcoreapp3.1\IsOdd.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\IsOdd\obj\Debug\netcoreapp3.1\IsOdd.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\IsOdd\obj\Debug\netcoreapp3.1\IsOdd.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\IsOdd\bin\Debug\netcoreapp3.1\IsOdd.exe
+C:\Users\TIM ASUS\source\repos\IsOdd\bin\Debug\netcoreapp3.1\IsOdd.deps.json
+C:\Users\TIM ASUS\source\repos\IsOdd\bin\Debug\netcoreapp3.1\IsOdd.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\IsOdd\bin\Debug\netcoreapp3.1\IsOdd.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\IsOdd\bin\Debug\netcoreapp3.1\IsOdd.dll
+C:\Users\TIM ASUS\source\repos\IsOdd\bin\Debug\netcoreapp3.1\IsOdd.pdb
+C:\Users\TIM ASUS\source\repos\IsOdd\obj\Debug\netcoreapp3.1\IsOdd.dll
+C:\Users\TIM ASUS\source\repos\IsOdd\obj\Debug\netcoreapp3.1\IsOdd.pdb
+C:\Users\TIM ASUS\source\repos\IsOdd\obj\Debug\netcoreapp3.1\IsOdd.genruntimeconfig.cache

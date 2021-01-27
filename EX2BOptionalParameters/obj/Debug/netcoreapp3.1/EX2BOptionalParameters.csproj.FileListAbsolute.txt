@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\bin\Debug\netcoreapp3.1\EX2BOptionalParameters.exe
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\bin\Debug\netcoreapp3.1\EX2BOptionalParameters.deps.json
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\bin\Debug\netcoreapp3.1\EX2BOptionalParameters.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\bin\Debug\netcoreapp3.1\EX2BOptionalParameters.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\bin\Debug\netcoreapp3.1\EX2BOptionalParameters.dll
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\bin\Debug\netcoreapp3.1\EX2BOptionalParameters.pdb
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.dll
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.pdb
+C:\Users\TIM ASUS\source\repos\EX2BOptionalParameters\obj\Debug\netcoreapp3.1\EX2BOptionalParameters.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\FeetToInches\bin\Debug\netcoreapp3.1\FeetToInches.exe
+C:\Users\TIM ASUS\source\repos\FeetToInches\bin\Debug\netcoreapp3.1\FeetToInches.deps.json
+C:\Users\TIM ASUS\source\repos\FeetToInches\bin\Debug\netcoreapp3.1\FeetToInches.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\FeetToInches\bin\Debug\netcoreapp3.1\FeetToInches.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\FeetToInches\bin\Debug\netcoreapp3.1\FeetToInches.dll
+C:\Users\TIM ASUS\source\repos\FeetToInches\bin\Debug\netcoreapp3.1\FeetToInches.pdb
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.dll
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.pdb
+C:\Users\TIM ASUS\source\repos\FeetToInches\obj\Debug\netcoreapp3.1\FeetToInches.genruntimeconfig.cache

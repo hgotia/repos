@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
+C:\Users\TIM ASUS\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache

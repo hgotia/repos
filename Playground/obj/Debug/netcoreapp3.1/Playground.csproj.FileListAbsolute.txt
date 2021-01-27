@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\Playground\bin\Debug\netcoreapp3.1\Playground.exe
+C:\Users\TIM ASUS\source\repos\Playground\bin\Debug\netcoreapp3.1\Playground.deps.json
+C:\Users\TIM ASUS\source\repos\Playground\bin\Debug\netcoreapp3.1\Playground.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\Playground\bin\Debug\netcoreapp3.1\Playground.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\Playground\bin\Debug\netcoreapp3.1\Playground.dll
+C:\Users\TIM ASUS\source\repos\Playground\bin\Debug\netcoreapp3.1\Playground.pdb
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.dll
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.pdb
+C:\Users\TIM ASUS\source\repos\Playground\obj\Debug\netcoreapp3.1\Playground.genruntimeconfig.cache

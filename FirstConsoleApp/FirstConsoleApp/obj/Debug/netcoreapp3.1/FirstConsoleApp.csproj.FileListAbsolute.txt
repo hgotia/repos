@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\TIM ASUS\source\repos\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.genruntimeconfig.cache

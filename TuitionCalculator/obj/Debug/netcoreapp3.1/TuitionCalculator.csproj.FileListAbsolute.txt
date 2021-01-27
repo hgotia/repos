@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\bin\Debug\netcoreapp3.1\TuitionCalculator.exe
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\bin\Debug\netcoreapp3.1\TuitionCalculator.deps.json
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\bin\Debug\netcoreapp3.1\TuitionCalculator.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\bin\Debug\netcoreapp3.1\TuitionCalculator.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\bin\Debug\netcoreapp3.1\TuitionCalculator.dll
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\bin\Debug\netcoreapp3.1\TuitionCalculator.pdb
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.dll
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.pdb
+C:\Users\TIM ASUS\source\repos\TuitionCalculator\obj\Debug\netcoreapp3.1\TuitionCalculator.genruntimeconfig.cache

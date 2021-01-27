@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\bin\Debug\netcoreapp3.1\MonteCarloAttempt1.exe
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\bin\Debug\netcoreapp3.1\MonteCarloAttempt1.deps.json
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\bin\Debug\netcoreapp3.1\MonteCarloAttempt1.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\bin\Debug\netcoreapp3.1\MonteCarloAttempt1.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\bin\Debug\netcoreapp3.1\MonteCarloAttempt1.dll
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\bin\Debug\netcoreapp3.1\MonteCarloAttempt1.pdb
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.dll
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.pdb
+C:\Users\TIM ASUS\source\repos\MonteCarloAttempt1\obj\Debug\netcoreapp3.1\MonteCarloAttempt1.genruntimeconfig.cache

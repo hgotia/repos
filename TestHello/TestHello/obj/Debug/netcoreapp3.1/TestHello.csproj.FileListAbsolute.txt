@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\bin\Debug\netcoreapp3.1\TestHello.exe
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\bin\Debug\netcoreapp3.1\TestHello.deps.json
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\bin\Debug\netcoreapp3.1\TestHello.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\bin\Debug\netcoreapp3.1\TestHello.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\bin\Debug\netcoreapp3.1\TestHello.dll
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\bin\Debug\netcoreapp3.1\TestHello.pdb
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.dll
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.pdb
+C:\Users\TIM ASUS\source\repos\TestHello\TestHello\obj\Debug\netcoreapp3.1\TestHello.genruntimeconfig.cache

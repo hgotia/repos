@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\bin\Debug\netcoreapp3.1\MSSA.CS.Welcome.exe
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\bin\Debug\netcoreapp3.1\MSSA.CS.Welcome.deps.json
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\bin\Debug\netcoreapp3.1\MSSA.CS.Welcome.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\bin\Debug\netcoreapp3.1\MSSA.CS.Welcome.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\bin\Debug\netcoreapp3.1\MSSA.CS.Welcome.dll
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\bin\Debug\netcoreapp3.1\MSSA.CS.Welcome.pdb
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.dll
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.pdb
+C:\Users\TIM ASUS\source\repos\MSSA.CS.Welcome\obj\Debug\netcoreapp3.1\MSSA.CS.Welcome.genruntimeconfig.cache

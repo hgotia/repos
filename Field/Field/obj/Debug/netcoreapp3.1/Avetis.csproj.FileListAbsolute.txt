@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Avetis.exe
+C:\Users\TIM ASUS\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Avetis.deps.json
+C:\Users\TIM ASUS\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Avetis.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Avetis.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Avetis.dll
+C:\Users\TIM ASUS\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Avetis.pdb
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.dll
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.pdb
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.genruntimeconfig.cache
+C:\Users\TIM ASUS\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Avetis.csprojAssemblyReference.cache

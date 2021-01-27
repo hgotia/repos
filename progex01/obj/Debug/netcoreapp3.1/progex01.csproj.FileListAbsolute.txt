@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\progex01\bin\Debug\netcoreapp3.1\progex01.exe
+C:\Users\TIM ASUS\source\repos\progex01\bin\Debug\netcoreapp3.1\progex01.deps.json
+C:\Users\TIM ASUS\source\repos\progex01\bin\Debug\netcoreapp3.1\progex01.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\progex01\bin\Debug\netcoreapp3.1\progex01.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\progex01\bin\Debug\netcoreapp3.1\progex01.dll
+C:\Users\TIM ASUS\source\repos\progex01\bin\Debug\netcoreapp3.1\progex01.pdb
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.dll
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.pdb
+C:\Users\TIM ASUS\source\repos\progex01\obj\Debug\netcoreapp3.1\progex01.genruntimeconfig.cache

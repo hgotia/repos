@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\bin\Debug\netcoreapp3.1\EncapsulationPractice.exe
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\bin\Debug\netcoreapp3.1\EncapsulationPractice.deps.json
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\bin\Debug\netcoreapp3.1\EncapsulationPractice.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\bin\Debug\netcoreapp3.1\EncapsulationPractice.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\bin\Debug\netcoreapp3.1\EncapsulationPractice.dll
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\bin\Debug\netcoreapp3.1\EncapsulationPractice.pdb
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.dll
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.pdb
+C:\Users\TIM ASUS\source\repos\EncapsulationPractice\EncapsulationPractice\obj\Debug\netcoreapp3.1\EncapsulationPractice.genruntimeconfig.cache

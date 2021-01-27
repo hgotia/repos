@@ -1,0 +1,10 @@
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\bin\Debug\Roi_Tool.exe.config
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\bin\Debug\Roi_Tool.exe
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\bin\Debug\Roi_Tool.pdb
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.Form1.resources
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.Properties.Resources.resources
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.csproj.GenerateResource.cache
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.exe
+C:\Users\TIM ASUS\source\repos\Roi_Tool\Roi_Tool\obj\Debug\Roi_Tool.pdb

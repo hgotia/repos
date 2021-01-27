@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\bin\Debug\netcoreapp3.1\MonteCarlo-DanVersion.exe
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\bin\Debug\netcoreapp3.1\MonteCarlo-DanVersion.deps.json
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\bin\Debug\netcoreapp3.1\MonteCarlo-DanVersion.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\bin\Debug\netcoreapp3.1\MonteCarlo-DanVersion.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\bin\Debug\netcoreapp3.1\MonteCarlo-DanVersion.dll
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\bin\Debug\netcoreapp3.1\MonteCarlo-DanVersion.pdb
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.dll
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.pdb
+C:\Users\TIM ASUS\source\repos\MonteCarlo-DanVersion\obj\Debug\netcoreapp3.1\MonteCarlo-DanVersion.genruntimeconfig.cache

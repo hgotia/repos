@@ -1,0 +1,10 @@
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\bin\Debug\Telephon Diary.exe.config
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\bin\Debug\Telephon Diary.exe
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\bin\Debug\Telephon Diary.pdb
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon Diary.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon_Diary.Properties.Resources.resources
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon Diary.csproj.GenerateResource.cache
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon Diary.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon Diary.exe
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon Diary.pdb
+C:\Users\TIM ASUS\source\repos\Telephon Diary\Telephon Diary\obj\Debug\Telephon_Diary.Phone.resources

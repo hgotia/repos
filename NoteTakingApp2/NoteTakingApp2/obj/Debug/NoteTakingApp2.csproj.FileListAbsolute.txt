@@ -1,0 +1,10 @@
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.Form1.resources
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.Properties.Resources.resources
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.csproj.GenerateResource.cache
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\bin\Debug\NoteTakingApp2.exe.config
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\bin\Debug\NoteTakingApp2.exe
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\bin\Debug\NoteTakingApp2.pdb
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.exe
+C:\Users\TIM ASUS\source\repos\NoteTakingApp2\NoteTakingApp2\obj\Debug\NoteTakingApp2.pdb
