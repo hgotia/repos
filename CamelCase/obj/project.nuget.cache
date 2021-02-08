@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikY8vNqTutjXbrqY1ceWXLgmeTSfg11duWyakoZU1Od2XDbSr6wHKg3uQ5mfb0YVk+/7vjueHzopnyG+Ps6ZmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TIM ASUS\\source\\repos\\CamelCase\\CamelCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIM ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TIM ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

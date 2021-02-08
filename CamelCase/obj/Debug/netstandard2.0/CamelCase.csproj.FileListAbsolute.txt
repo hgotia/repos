@@ -1,0 +1,9 @@
+C:\Users\TIM ASUS\source\repos\CamelCase\bin\Debug\netstandard2.0\CamelCase.deps.json
+C:\Users\TIM ASUS\source\repos\CamelCase\bin\Debug\netstandard2.0\CamelCase.dll
+C:\Users\TIM ASUS\source\repos\CamelCase\bin\Debug\netstandard2.0\CamelCase.pdb
+C:\Users\TIM ASUS\source\repos\CamelCase\obj\Debug\netstandard2.0\CamelCase.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\CamelCase\obj\Debug\netstandard2.0\CamelCase.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\CamelCase\obj\Debug\netstandard2.0\CamelCase.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\CamelCase\obj\Debug\netstandard2.0\CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\CamelCase\obj\Debug\netstandard2.0\CamelCase.dll
+C:\Users\TIM ASUS\source\repos\CamelCase\obj\Debug\netstandard2.0\CamelCase.pdb
