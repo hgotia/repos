@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\WhiteBoardSD9.exe
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\WhiteBoardSD9.deps.json
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\WhiteBoardSD9.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\WhiteBoardSD9.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\WhiteBoardSD9.dll
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\WhiteBoardSD9.pdb
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.dll
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.pdb
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.genruntimeconfig.cache
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\Alphabetize.dll
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\Alphabetize.pdb
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.csproj.CopyComplete

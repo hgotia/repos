@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\bin\Debug\netcoreapp3.1\RPGBattleSim.exe
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\bin\Debug\netcoreapp3.1\RPGBattleSim.deps.json
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\bin\Debug\netcoreapp3.1\RPGBattleSim.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\bin\Debug\netcoreapp3.1\RPGBattleSim.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\bin\Debug\netcoreapp3.1\RPGBattleSim.dll
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\bin\Debug\netcoreapp3.1\RPGBattleSim.pdb
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.dll
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.pdb
+C:\Users\TIM ASUS\source\repos\RPGBattleSim\obj\Debug\netcoreapp3.1\RPGBattleSim.genruntimeconfig.cache

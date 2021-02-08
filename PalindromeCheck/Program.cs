@@ -16,6 +16,8 @@ namespace PalindromeCheck
 
             // checks the entire word to the reversed word
             Console.WriteLine($"Version2: {IsPalindrome2(word)}"); 
+
+            
         }
 
         private static string GetWord()
@@ -50,5 +52,7 @@ namespace PalindromeCheck
             }
             return reverse;
         }
+
+        
     }
 }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WhiteBoardSD9/1.0.0": {
+        "dependencies": {
+          "Alphabetize": "1.0.0"
+        },
+        "runtime": {
+          "WhiteBoardSD9.dll": {}
+        }
+      },
+      "Alphabetize/1.0.0": {
+        "runtime": {
+          "Alphabetize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhiteBoardSD9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alphabetize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

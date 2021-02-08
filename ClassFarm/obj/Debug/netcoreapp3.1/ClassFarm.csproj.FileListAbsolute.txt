@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\ClassFarm.exe
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\ClassFarm.deps.json
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\ClassFarm.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\ClassFarm.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\ClassFarm.dll
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\ClassFarm.pdb
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.dll
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.pdb
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\ClassFarm.genruntimeconfig.cache

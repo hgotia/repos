@@ -1,0 +1,9 @@
+C:\Users\TIM ASUS\source\repos\Alphabetize\bin\Debug\netstandard2.0\Alphabetize.deps.json
+C:\Users\TIM ASUS\source\repos\Alphabetize\bin\Debug\netstandard2.0\Alphabetize.dll
+C:\Users\TIM ASUS\source\repos\Alphabetize\bin\Debug\netstandard2.0\Alphabetize.pdb
+C:\Users\TIM ASUS\source\repos\Alphabetize\obj\Debug\netstandard2.0\Alphabetize.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\Alphabetize\obj\Debug\netstandard2.0\Alphabetize.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\Alphabetize\obj\Debug\netstandard2.0\Alphabetize.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\Alphabetize\obj\Debug\netstandard2.0\Alphabetize.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\Alphabetize\obj\Debug\netstandard2.0\Alphabetize.dll
+C:\Users\TIM ASUS\source\repos\Alphabetize\obj\Debug\netstandard2.0\Alphabetize.pdb

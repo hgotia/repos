@@ -1,0 +1,12 @@
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\Gojira.exe
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\Gojira.deps.json
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\Gojira.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\Gojira.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\Gojira.dll
+C:\Users\TIM ASUS\source\repos\ClassFarm\bin\Debug\netcoreapp3.1\Gojira.pdb
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\Gojira.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\Gojira.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\Gojira.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\Gojira.dll
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\Gojira.pdb
+C:\Users\TIM ASUS\source\repos\ClassFarm\obj\Debug\netcoreapp3.1\Gojira.genruntimeconfig.cache
