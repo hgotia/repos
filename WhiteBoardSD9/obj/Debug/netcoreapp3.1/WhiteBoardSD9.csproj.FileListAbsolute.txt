@@ -14,3 +14,5 @@ C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardS
 C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\Alphabetize.dll
 C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\Alphabetize.pdb
 C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\obj\Debug\netcoreapp3.1\WhiteBoardSD9.csproj.CopyComplete
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\CamelCase.dll
+C:\Users\TIM ASUS\source\repos\WhiteBoardSD9\bin\Debug\netcoreapp3.1\CamelCase.pdb

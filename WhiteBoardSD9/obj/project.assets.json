@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Alphabetize.dll": {}
         }
+      },
+      "CamelCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CamelCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamelCase.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Alphabetize/Alphabetize.csproj",
       "msbuildProject": "../Alphabetize/Alphabetize.csproj"
+    },
+    "CamelCase/1.0.0": {
+      "type": "project",
+      "path": "../CamelCase/CamelCase.csproj",
+      "msbuildProject": "../CamelCase/CamelCase.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Alphabetize >= 1.0.0"
+      "Alphabetize >= 1.0.0",
+      "CamelCase >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "C:\\Users\\TIM ASUS\\source\\repos\\Alphabetize\\Alphabetize.csproj": {
               "projectPath": "C:\\Users\\TIM ASUS\\source\\repos\\Alphabetize\\Alphabetize.csproj"
+            },
+            "C:\\Users\\TIM ASUS\\source\\repos\\CamelCase\\CamelCase.csproj": {
+              "projectPath": "C:\\Users\\TIM ASUS\\source\\repos\\CamelCase\\CamelCase.csproj"
             }
           }
         }

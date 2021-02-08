@@ -9,25 +9,25 @@ namespace CamelCaseTest
         [TestMethod]
         public void CamemlCase_youWinSome()
         {
-            Assert.AreEqual("youWinSome", StringMethods.camelCase("You win some"));;
+            Assert.AreEqual("youWinSome", StringMethods.camelCase("You win some"));
         }
 
         [TestMethod]
         public void CamemlCase_quickbrownfox()
         {
-            Assert.AreEqual("theQuickBrownFoxJumpsOverTheLazyDog", StringMethods.camelCase("the quick brown fox jumps over the lazy dog")); ;
+            Assert.AreEqual("theQuickBrownFoxJumpsOverTheLazyDog", StringMethods.camelCase("the quick brown fox jumps over the lazy dog"));
         }
 
         [TestMethod]
         public void CamemlCase_OneWord()
         {
-            Assert.AreEqual("one", StringMethods.camelCase("One")); ;
+            Assert.AreEqual("one", StringMethods.camelCase("One"));
         }
 
         [TestMethod]
         public void PascalCase_youWinSome()
         {
-            Assert.AreEqual("YouWinSome", StringMethods.PascalCase("You win some")); ;
+            Assert.AreEqual("YouWinSome", StringMethods.PascalCase("You win some"));
         }
 
         [TestMethod]

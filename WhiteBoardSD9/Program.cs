@@ -1,5 +1,6 @@
 ﻿using System;
 using Alphabetize;
+using CamelCase;
 
 namespace WhiteBoardSD9
 {
@@ -7,7 +8,7 @@ namespace WhiteBoardSD9
     {
         static void Main(string[] args)
         {
-            Sorts.StringSort("Dgo");
+            Console.WriteLine(StringMethods.camelCase("the quick brown fox jumps over the lazy dog"));
         }
     }
 }
