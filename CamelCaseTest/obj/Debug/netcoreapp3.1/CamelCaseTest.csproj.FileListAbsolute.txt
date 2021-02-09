@@ -2,7 +2,6 @@ C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\testhost.dl
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\CamelCaseTest.deps.json
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\CamelCaseTest.runtimeconfig.json
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\CamelCaseTest.runtimeconfig.dev.json
@@ -95,3 +94,4 @@ C:\Users\TIM ASUS\source\repos\CamelCaseTest\obj\Debug\netcoreapp3.1\CamelCaseTe
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\obj\Debug\netcoreapp3.1\CamelCaseTest.dll
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\obj\Debug\netcoreapp3.1\CamelCaseTest.pdb
 C:\Users\TIM ASUS\source\repos\CamelCaseTest\obj\Debug\netcoreapp3.1\CamelCaseTest.genruntimeconfig.cache
+C:\Users\TIM ASUS\source\repos\CamelCaseTest\bin\Debug\netcoreapp3.1\testhost.exe

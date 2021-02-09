@@ -8,7 +8,7 @@ namespace WhiteBoardSD9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(StringMethods.camelCase("the quick brown fox jumps over the lazy dog"));
+            Console.WriteLine(StringMethods.CamelCase("the quick brown fox jumps over the lazy dog"));
         }
     }
 }
