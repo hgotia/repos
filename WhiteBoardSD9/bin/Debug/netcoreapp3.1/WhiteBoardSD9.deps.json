@@ -9,7 +9,8 @@
       "WhiteBoardSD9/1.0.0": {
         "dependencies": {
           "Alphabetize": "1.0.0",
-          "CamelCase": "1.0.0"
+          "CamelCase": "1.0.0",
+          "Primes": "1.0.0"
         },
         "runtime": {
           "WhiteBoardSD9.dll": {}
@@ -23,6 +24,11 @@
       "CamelCase/1.0.0": {
         "runtime": {
           "CamelCase.dll": {}
+        }
+      },
+      "Primes/1.0.0": {
+        "runtime": {
+          "Primes.dll": {}
         }
       }
     }
@@ -39,6 +45,11 @@
       "sha512": ""
     },
     "CamelCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Primes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -21,6 +21,16 @@
         "runtime": {
           "bin/placeholder/CamelCase.dll": {}
         }
+      },
+      "Primes/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Primes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Primes.dll": {}
+        }
       }
     }
   },
@@ -34,12 +44,18 @@
       "type": "project",
       "path": "../CamelCase/CamelCase.csproj",
       "msbuildProject": "../CamelCase/CamelCase.csproj"
+    },
+    "Primes/1.0.0": {
+      "type": "project",
+      "path": "../WhiteboarDanSD9/IsPrime/Primes.csproj",
+      "msbuildProject": "../WhiteboarDanSD9/IsPrime/Primes.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Alphabetize >= 1.0.0",
-      "CamelCase >= 1.0.0"
+      "CamelCase >= 1.0.0",
+      "Primes >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -79,6 +95,9 @@
             },
             "C:\\Users\\TIM ASUS\\source\\repos\\CamelCase\\CamelCase.csproj": {
               "projectPath": "C:\\Users\\TIM ASUS\\source\\repos\\CamelCase\\CamelCase.csproj"
+            },
+            "C:\\Users\\TIM ASUS\\source\\repos\\WhiteboarDanSD9\\IsPrime\\Primes.csproj": {
+              "projectPath": "C:\\Users\\TIM ASUS\\source\\repos\\WhiteboarDanSD9\\IsPrime\\Primes.csproj"
             }
           }
         }

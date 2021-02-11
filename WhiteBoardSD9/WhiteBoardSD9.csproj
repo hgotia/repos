@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Alphabetize\Alphabetize.csproj" />
     <ProjectReference Include="..\CamelCase\CamelCase.csproj" />
+    <ProjectReference Include="..\WhiteboarDanSD9\IsPrime\Primes.csproj" />
   </ItemGroup>
 
 </Project>
