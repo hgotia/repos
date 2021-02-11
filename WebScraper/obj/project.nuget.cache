@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBEvQPCtLGPEOKO3xyCZfb8R+08TXb86a06WhgWKo/lhw8Igj2/RFpqJ8XiPwm5zjVohQRBmZoBjsdlAVWeU7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TIM ASUS\\source\\repos\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIM ASUS\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512"
+  ],
+  "logs": []
+}

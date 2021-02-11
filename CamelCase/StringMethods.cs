@@ -108,7 +108,7 @@ namespace CamelCase
             {
                 result += camelCase[i];
             }
-            return result;
+            return result; 
         }
     }
 }
