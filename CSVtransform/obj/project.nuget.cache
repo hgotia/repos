@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQhEzX/rc3wjdd/cpjmrXpmY9hg3QaFSMGcHRw4f+ql08t6uHbV1pp71ETqUwR+Uy7WdreZx8JSjesfOarhzGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TIM ASUS\\source\\repos\\CSVtransform\\TransformCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIM ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TIM ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

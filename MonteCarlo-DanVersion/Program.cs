@@ -19,6 +19,7 @@ namespace MonteCarlo_DanVersion
 {
     class Program
     {
+
         static (double, double) GetNextPoint(Random rand)
         {
             double x = rand.NextDouble();

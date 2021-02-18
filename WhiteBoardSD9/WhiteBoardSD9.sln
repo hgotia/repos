@@ -25,7 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangles", "..\WhiteboarDa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrianglesTest", "..\WhiteboarDanSD9\TrianglesTest\TrianglesTest.csproj", "{919E6674-407A-402C-A94E-4713BD0459FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesTest", "..\PrimesTest\PrimesTest.csproj", "{ECBC9927-70A1-411C-AFC6-E4A13A2D7366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimesTest", "..\PrimesTest\PrimesTest.csproj", "{ECBC9927-70A1-411C-AFC6-E4A13A2D7366}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySort", "..\ArraySort\ArraySort.csproj", "{80E320F9-125B-4EC6-B000-DB4408A5C875}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySortTest", "..\ArraySortTest\ArraySortTest.csproj", "{07CBDD40-66D4-4170-B508-43066CBB35B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformCSV", "..\CSVtransform\TransformCSV.csproj", "{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{ECBC9927-70A1-411C-AFC6-E4A13A2D7366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBC9927-70A1-411C-AFC6-E4A13A2D7366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBC9927-70A1-411C-AFC6-E4A13A2D7366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E320F9-125B-4EC6-B000-DB4408A5C875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E320F9-125B-4EC6-B000-DB4408A5C875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E320F9-125B-4EC6-B000-DB4408A5C875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E320F9-125B-4EC6-B000-DB4408A5C875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CBDD40-66D4-4170-B508-43066CBB35B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CBDD40-66D4-4170-B508-43066CBB35B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CBDD40-66D4-4170-B508-43066CBB35B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CBDD40-66D4-4170-B508-43066CBB35B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

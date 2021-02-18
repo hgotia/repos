@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitalRoots", "DigitalRoots.csproj", "{DA19F172-A433-4A4E-B3C4-91D00D7E5748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarraySum", "..\MaximumSubarraySum\MaximumSubarraySum.csproj", "{1816A6CC-4CDC-425D-A5DD-B6067172EB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA19F172-A433-4A4E-B3C4-91D00D7E5748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA19F172-A433-4A4E-B3C4-91D00D7E5748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA19F172-A433-4A4E-B3C4-91D00D7E5748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA19F172-A433-4A4E-B3C4-91D00D7E5748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1816A6CC-4CDC-425D-A5DD-B6067172EB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1816A6CC-4CDC-425D-A5DD-B6067172EB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1816A6CC-4CDC-425D-A5DD-B6067172EB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1816A6CC-4CDC-425D-A5DD-B6067172EB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9821FFAC-8770-4EEB-BB10-5DE991B9A2EC}
+	EndGlobalSection
+EndGlobal

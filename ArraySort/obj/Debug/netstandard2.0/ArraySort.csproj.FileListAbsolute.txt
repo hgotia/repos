@@ -1,0 +1,9 @@
+C:\Users\TIM ASUS\source\repos\ArraySort\bin\Debug\netstandard2.0\ArraySort.deps.json
+C:\Users\TIM ASUS\source\repos\ArraySort\bin\Debug\netstandard2.0\ArraySort.dll
+C:\Users\TIM ASUS\source\repos\ArraySort\bin\Debug\netstandard2.0\ArraySort.pdb
+C:\Users\TIM ASUS\source\repos\ArraySort\obj\Debug\netstandard2.0\ArraySort.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\ArraySort\obj\Debug\netstandard2.0\ArraySort.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ArraySort\obj\Debug\netstandard2.0\ArraySort.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ArraySort\obj\Debug\netstandard2.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ArraySort\obj\Debug\netstandard2.0\ArraySort.dll
+C:\Users\TIM ASUS\source\repos\ArraySort\obj\Debug\netstandard2.0\ArraySort.pdb

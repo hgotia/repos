@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.exe
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.deps.json
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.dll
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.pdb
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.dll
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.pdb
+C:\Users\TIM ASUS\source\repos\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.genruntimeconfig.cache

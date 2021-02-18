@@ -2,7 +2,7 @@
 
 namespace RPGBattleSim
 {
-    class Program
+    class Basic
     {
         static void Main(string[] args)
         {

@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\DigitalRoots\bin\Debug\netcoreapp3.1\DigitalRoots.exe
+C:\Users\TIM ASUS\source\repos\DigitalRoots\bin\Debug\netcoreapp3.1\DigitalRoots.deps.json
+C:\Users\TIM ASUS\source\repos\DigitalRoots\bin\Debug\netcoreapp3.1\DigitalRoots.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\DigitalRoots\bin\Debug\netcoreapp3.1\DigitalRoots.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\DigitalRoots\bin\Debug\netcoreapp3.1\DigitalRoots.dll
+C:\Users\TIM ASUS\source\repos\DigitalRoots\bin\Debug\netcoreapp3.1\DigitalRoots.pdb
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.dll
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.pdb
+C:\Users\TIM ASUS\source\repos\DigitalRoots\obj\Debug\netcoreapp3.1\DigitalRoots.genruntimeconfig.cache

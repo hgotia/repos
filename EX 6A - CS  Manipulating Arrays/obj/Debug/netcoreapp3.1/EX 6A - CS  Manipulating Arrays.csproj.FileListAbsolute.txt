@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\bin\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.exe
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\bin\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.deps.json
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\bin\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\bin\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\bin\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.dll
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\bin\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.pdb
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.dll
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.pdb
+C:\Users\TIM ASUS\source\repos\EX 6A - CS  Manipulating Arrays\obj\Debug\netcoreapp3.1\EX 6A - CS  Manipulating Arrays.genruntimeconfig.cache
