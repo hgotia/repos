@@ -1,0 +1,9 @@
+C:\Users\TIM ASUS\source\repos\CSVtransform\bin\Debug\netstandard2.0\TransformCSV.deps.json
+C:\Users\TIM ASUS\source\repos\CSVtransform\bin\Debug\netstandard2.0\TransformCSV.dll
+C:\Users\TIM ASUS\source\repos\CSVtransform\bin\Debug\netstandard2.0\TransformCSV.pdb
+C:\Users\TIM ASUS\source\repos\CSVtransform\obj\Debug\netstandard2.0\TransformCSV.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\CSVtransform\obj\Debug\netstandard2.0\TransformCSV.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\CSVtransform\obj\Debug\netstandard2.0\TransformCSV.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\CSVtransform\obj\Debug\netstandard2.0\TransformCSV.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\CSVtransform\obj\Debug\netstandard2.0\TransformCSV.dll
+C:\Users\TIM ASUS\source\repos\CSVtransform\obj\Debug\netstandard2.0\TransformCSV.pdb

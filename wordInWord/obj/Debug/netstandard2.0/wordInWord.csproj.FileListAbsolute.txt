@@ -1,0 +1,9 @@
+C:\Users\TIM ASUS\source\repos\wordInWord\bin\Debug\netstandard2.0\wordInWord.deps.json
+C:\Users\TIM ASUS\source\repos\wordInWord\bin\Debug\netstandard2.0\wordInWord.dll
+C:\Users\TIM ASUS\source\repos\wordInWord\bin\Debug\netstandard2.0\wordInWord.pdb
+C:\Users\TIM ASUS\source\repos\wordInWord\obj\Debug\netstandard2.0\wordInWord.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\wordInWord\obj\Debug\netstandard2.0\wordInWord.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\wordInWord\obj\Debug\netstandard2.0\wordInWord.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\wordInWord\obj\Debug\netstandard2.0\wordInWord.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\wordInWord\obj\Debug\netstandard2.0\wordInWord.dll
+C:\Users\TIM ASUS\source\repos\wordInWord\obj\Debug\netstandard2.0\wordInWord.pdb
