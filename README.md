@@ -1,2 +1,1 @@
-# Local_VS_repo
- Local_VS
+This repo contains all my VS projects during the MSSA program
