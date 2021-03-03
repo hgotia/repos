@@ -6,7 +6,12 @@ namespace CompareTwoNums
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(CompareNumbers());
+            for (; ; )
+            {
+                Console.WriteLine("HEllo");
+            }
+
+            //Console.WriteLine(CompareNumbers());
         }
 
         private static string CompareNumbers()

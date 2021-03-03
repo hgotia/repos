@@ -186,9 +186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TIM ASUS\\source\\repos\\CSVtransform\\TransformCSV.csproj",
-      "projectName": "TransformCSV",
-      "projectPath": "C:\\Users\\TIM ASUS\\source\\repos\\CSVtransform\\TransformCSV.csproj",
+      "projectUniqueName": "C:\\Users\\TIM ASUS\\source\\repos\\CSVtransform\\Arrays.csproj",
+      "projectName": "Arrays",
+      "projectPath": "C:\\Users\\TIM ASUS\\source\\repos\\CSVtransform\\Arrays.csproj",
       "packagesPath": "C:\\Users\\TIM ASUS\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\TIM ASUS\\source\\repos\\CSVtransform\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\RouletteApp.exe
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\RouletteApp.deps.json
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\RouletteApp.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\RouletteApp.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\RouletteApp.dll
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\ref\RouletteApp.dll
+C:\Users\TIM ASUS\source\repos\RouletteApp\bin\Debug\net5.0\RouletteApp.pdb
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.dll
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\ref\RouletteApp.dll
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.pdb
+C:\Users\TIM ASUS\source\repos\RouletteApp\obj\Debug\net5.0\RouletteApp.genruntimeconfig.cache

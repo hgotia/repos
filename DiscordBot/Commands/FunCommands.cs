@@ -52,13 +52,15 @@ namespace DiscordBot.Commands
         public async Task Echo(CommandContext ctx)
         {
             var interactivity = ctx.Client.GetInteractivity();
-
-            await ctx.Message.DeleteAsync().ConfigureAwait(false);
+            
+            await ctx.Message
+                .DeleteAsync().ConfigureAwait(false);
 
             var message = await interactivity
                 .WaitForMessageAsync(x => x.Channel == ctx.Channel)
                 .ConfigureAwait(false);
 
+                
             await ctx.Channel
                 .SendMessageAsync(message.Result.Content);
         }

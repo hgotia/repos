@@ -31,11 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySort", "..\ArraySort\A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySortTest", "..\ArraySortTest\ArraySortTest.csproj", "{07CBDD40-66D4-4170-B508-43066CBB35B7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransformCSV", "..\CSVtransform\TransformCSV.csproj", "{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\CSVtransform\Arrays.csproj", "{08FA1626-5FC9-4A29-9D93-6A43B2E7A258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordInWord", "..\wordInWord\wordInWord.csproj", "{45119F1E-479C-4EA9-A913-EB188F472B64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wordInWord", "..\wordInWord\wordInWord.csproj", "{45119F1E-479C-4EA9-A913-EB188F472B64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordInWordTest", "..\wordInWordTest\wordInWordTest.csproj", "{33790EB8-DA05-4F11-AB8C-D25BC935F808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wordInWordTest", "..\wordInWordTest\wordInWordTest.csproj", "{33790EB8-DA05-4F11-AB8C-D25BC935F808}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

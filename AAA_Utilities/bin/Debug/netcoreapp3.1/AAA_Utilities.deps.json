@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AAA_Utilities/1.0.0": {
+        "dependencies": {
+          "Alphabetize": "1.0.0",
+          "RandomPasswordGenerator": "1.0.0"
+        },
+        "runtime": {
+          "AAA_Utilities.dll": {}
+        }
+      },
+      "Alphabetize/1.0.0": {
+        "runtime": {
+          "Alphabetize.dll": {}
+        }
+      },
+      "RandomPasswordGenerator/1.0.0": {
+        "runtime": {
+          "RandomPasswordGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AAA_Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alphabetize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RandomPasswordGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

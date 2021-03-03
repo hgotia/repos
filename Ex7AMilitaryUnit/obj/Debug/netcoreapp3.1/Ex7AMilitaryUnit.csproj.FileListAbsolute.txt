@@ -1,0 +1,13 @@
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\bin\Debug\netcoreapp3.1\Ex7AMilitaryUnit.exe
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\bin\Debug\netcoreapp3.1\Ex7AMilitaryUnit.deps.json
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\bin\Debug\netcoreapp3.1\Ex7AMilitaryUnit.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\bin\Debug\netcoreapp3.1\Ex7AMilitaryUnit.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\bin\Debug\netcoreapp3.1\Ex7AMilitaryUnit.dll
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\bin\Debug\netcoreapp3.1\Ex7AMilitaryUnit.pdb
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.dll
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.pdb
+C:\Users\TIM ASUS\source\repos\Ex7AMilitaryUnit\obj\Debug\netcoreapp3.1\Ex7AMilitaryUnit.genruntimeconfig.cache
