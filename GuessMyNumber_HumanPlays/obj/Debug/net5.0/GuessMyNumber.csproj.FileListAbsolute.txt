@@ -1,0 +1,15 @@
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.exe
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.deps.json
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.dll
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\ref\GuessMyNumber.dll
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.pdb
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.dll
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\ref\GuessMyNumber.dll
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.pdb
+C:\Users\TIM ASUS\source\repos\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.genruntimeconfig.cache

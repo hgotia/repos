@@ -69,7 +69,7 @@ namespace RouletteApp
             } while (gameOver == false);
         }
 
-        private static string Playgame(int selectBetType,ref int capital, int bet, int winningNumber)
+        private static string Playgame(int selectBetType, ref int capital, int bet, int winningNumber)
         {
             BetSelector newBet = new BetSelector();
             string winLose = "";
@@ -82,7 +82,7 @@ namespace RouletteApp
 
                 if (userBet == winningNumber)
                 {
-                    capital += bet*5; // 5x the win POGGERS
+                    capital += bet * 5; // 5x the win POGGERS
                     winLose = "You Win!";
                 }
                 else if (userBet != winningNumber)
@@ -98,12 +98,7 @@ namespace RouletteApp
                 Console.Write("\nOdd or even? ");
                 string userBet = Console.ReadLine().ToUpper();
 
-                if (userBet == "ODD" && winningNumber % 2 != 0)
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "EVEN" && winningNumber % 2 == 0)
+                if ((userBet == "ODD" && winningNumber % 2 != 0) || (userBet == "EVEN" && winningNumber % 2 == 0))
                 {
                     capital += bet;
                     winLose = "You Win!";
@@ -121,17 +116,9 @@ namespace RouletteApp
                 Console.Write("\nRed, black, or green? ");
                 string userBet = Console.ReadLine().ToUpper();
 
-                if (userBet == "RED" && newBet.BinRed.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "BLACK" && newBet.BinBlack.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "GREEN" && newBet.BinGreen.Contains(winningNumber))
+                if ((userBet == "RED" && newBet.BinRed.Contains(winningNumber)) ||
+                    (userBet == "BLACK" && newBet.BinBlack.Contains(winningNumber)) ||
+                    (userBet == "GREEN" && newBet.BinGreen.Contains(winningNumber)))
                 {
                     capital += bet;
                     winLose = "You Win!";
@@ -149,12 +136,7 @@ namespace RouletteApp
                 Console.Write("\nHigh or Low? ");
                 string userBet = Console.ReadLine().ToUpper();
 
-                if (userBet == "HIGH" && winningNumber > 0 && winningNumber < 19)
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "LOW" && winningNumber > 18 && winningNumber < 39)
+                if ((userBet == "HIGH" && winningNumber > 0 && winningNumber < 19) || (userBet == "LOW" && winningNumber > 18 && winningNumber < 39))
                 {
                     capital += bet;
                     winLose = "You Win!";
@@ -172,17 +154,9 @@ namespace RouletteApp
                 Console.Write("\nWhich dozen do you want to bet on?\n(Select: First, Second, or Third): ");
                 string userBet = Console.ReadLine().ToUpper();
 
-                if (userBet == "FIRST" && winningNumber > 0 && winningNumber < 19)
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "SECOND" && winningNumber > 19 && winningNumber < 25)
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "THIRD" && winningNumber >25 && winningNumber < 36)
+                if ((userBet == "FIRST" && winningNumber > 0 && winningNumber < 19) ||
+                    (userBet == "SECOND" && winningNumber > 19 && winningNumber < 25) ||
+                    (userBet == "THIRD" && winningNumber > 25 && winningNumber < 36))
                 {
                     capital += bet;
                     winLose = "You Win!";
@@ -204,17 +178,9 @@ namespace RouletteApp
                 Console.Write("\nType First, Second, or Third: ");
                 string userBet = Console.ReadLine().ToUpper();
 
-                if (userBet == "FIRST" && newBet.BinFirstCol.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "SECOND" && newBet.BinSecondCol.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == "THIRD" && newBet.BinThirdCol.Contains(winningNumber))
+                if ((userBet == "FIRST" && newBet.BinFirstCol.Contains(winningNumber)) ||
+                    (userBet == "SECOND" && newBet.BinSecondCol.Contains(winningNumber) ||
+                    (userBet == "THIRD" && newBet.BinThirdCol.Contains(winningNumber)))
                 {
                     capital += bet;
                     winLose = "You Win!";
@@ -245,62 +211,18 @@ namespace RouletteApp
                 Console.Write("\nType in your row selection (1 to 12): ");
                 uint userBet = uint.Parse(Console.ReadLine());
 
-                if (userBet == 1 && newBet.BinStreet1.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 2 && newBet.BinStreet2.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 3 && newBet.BinStreet3.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 4 && newBet.BinStreet4.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 5 && newBet.BinStreet5.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 6 && newBet.BinStreet6.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 7 && newBet.BinStreet7.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 8 && newBet.BinStreet8.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 9 && newBet.BinStreet9.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 10 && newBet.BinStreet10.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 11 && newBet.BinStreet11.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 12 && newBet.BinStreet12.Contains(winningNumber))
+                if ((userBet == 1 && newBet.BinStreet1.Contains(winningNumber)) ||
+                    (userBet == 2 && newBet.BinStreet2.Contains(winningNumber)) ||
+                    (userBet == 3 && newBet.BinStreet3.Contains(winningNumber)) ||
+                    (userBet == 4 && newBet.BinStreet4.Contains(winningNumber)) ||
+                    (userBet == 5 && newBet.BinStreet5.Contains(winningNumber)) ||
+                    (userBet == 6 && newBet.BinStreet6.Contains(winningNumber)) ||
+                    (userBet == 7 && newBet.BinStreet7.Contains(winningNumber)) ||
+                    (userBet == 8 && newBet.BinStreet8.Contains(winningNumber)) ||
+                    (userBet == 9 && newBet.BinStreet9.Contains(winningNumber)) ||
+                    (userBet == 10 && newBet.BinStreet10.Contains(winningNumber)) ||
+                    (userBet == 11 && newBet.BinStreet11.Contains(winningNumber)) ||
+                    (userBet == 12 && newBet.BinStreet12.Contains(winningNumber)))
                 {
                     capital += bet;
                     winLose = "You Win!";
@@ -329,52 +251,16 @@ namespace RouletteApp
                 Console.Write("\nType in your double row selection (1 to 10): ");
                 uint userBet = uint.Parse(Console.ReadLine());
 
-                if (userBet == 2 && newBet.BinDouble1.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 3 && newBet.BinDouble2.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 4 && newBet.BinDouble3.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 5 && newBet.BinDouble4.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 6 && newBet.BinDouble5.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 7 && newBet.BinDouble6.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 8 && newBet.BinDouble7.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 9 && newBet.BinDouble8.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 10 && newBet.BinDouble9.Contains(winningNumber))
-                {
-                    capital += bet;
-                    winLose = "You Win!";
-                }
-                else if (userBet == 1 && newBet.BinDouble10.Contains(winningNumber))
+                if ((userBet == 2 && newBet.BinDouble1.Contains(winningNumber)) ||
+                    (userBet == 1 && newBet.BinDouble10.Contains(winningNumber)) ||
+                    (userBet == 3 && newBet.BinDouble2.Contains(winningNumber)) ||
+                    (userBet == 4 && newBet.BinDouble3.Contains(winningNumber)) ||
+                    (userBet == 5 && newBet.BinDouble4.Contains(winningNumber)) ||
+                    (userBet == 6 && newBet.BinDouble5.Contains(winningNumber)) ||
+                    (userBet == 7 && newBet.BinDouble6.Contains(winningNumber)) ||
+                    (userBet == 8 && newBet.BinDouble7.Contains(winningNumber)) ||
+                    (userBet == 9 && newBet.BinDouble8.Contains(winningNumber)) ||
+                    (userBet == 10 && newBet.BinDouble9.Contains(winningNumber)))
                 {
                     capital += bet;
                     winLose = "You Win!";

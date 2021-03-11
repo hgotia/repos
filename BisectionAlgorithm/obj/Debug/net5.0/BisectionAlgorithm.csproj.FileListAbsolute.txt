@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\BisectionAlgorithm.exe
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\BisectionAlgorithm.deps.json
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\BisectionAlgorithm.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\BisectionAlgorithm.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\BisectionAlgorithm.dll
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\ref\BisectionAlgorithm.dll
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\bin\Debug\net5.0\BisectionAlgorithm.pdb
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.dll
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\ref\BisectionAlgorithm.dll
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.pdb
+C:\Users\TIM ASUS\source\repos\BisectionAlgorithm\obj\Debug\net5.0\BisectionAlgorithm.genruntimeconfig.cache
