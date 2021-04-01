@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\VectorDistanceCalculator.exe
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\VectorDistanceCalculator.deps.json
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\VectorDistanceCalculator.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\VectorDistanceCalculator.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\VectorDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\ref\VectorDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\VectorDistanceCalculator.pdb
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\ref\VectorDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.pdb
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\VectorDistanceCalculator.genruntimeconfig.cache

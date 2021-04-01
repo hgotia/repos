@@ -65,13 +65,13 @@ namespace GuessMyNumber
         private static bool bisection_algorithm(int value, int computer)
         {
             int min = 0;
-            int max = computer;
+            int max = computer+1;
 
             if (true)
             {
                 int mid = (min + max) / 2;
 
-                if (value == mid || value == max) //max number never gets found due to the rounding down
+                if (value == mid) 
                     return true;
 
                 else if (value < mid)

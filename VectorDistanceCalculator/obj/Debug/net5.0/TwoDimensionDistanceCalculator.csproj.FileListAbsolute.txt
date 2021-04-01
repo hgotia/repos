@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\TwoDimensionDistanceCalculator.exe
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\TwoDimensionDistanceCalculator.deps.json
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\TwoDimensionDistanceCalculator.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\TwoDimensionDistanceCalculator.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\TwoDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\ref\TwoDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\bin\Debug\net5.0\TwoDimensionDistanceCalculator.pdb
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\ref\TwoDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.pdb
+C:\Users\TIM ASUS\source\repos\VectorDistanceCalculator\obj\Debug\net5.0\TwoDimensionDistanceCalculator.genruntimeconfig.cache

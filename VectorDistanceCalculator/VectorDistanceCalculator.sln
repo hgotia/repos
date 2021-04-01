@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoDimensionDistanceCalculator", "TwoDimensionDistanceCalculator.csproj", "{4602AA8C-27F1-4FA4-BE85-3C1DC34A328E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDimensionDistanceCalculator", "..\ThreeDimensionDistanceCalculator\ThreeDimensionDistanceCalculator.csproj", "{C4F38B5F-2155-4707-A979-E948F82BC391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4602AA8C-27F1-4FA4-BE85-3C1DC34A328E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4602AA8C-27F1-4FA4-BE85-3C1DC34A328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4602AA8C-27F1-4FA4-BE85-3C1DC34A328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4602AA8C-27F1-4FA4-BE85-3C1DC34A328E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F38B5F-2155-4707-A979-E948F82BC391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F38B5F-2155-4707-A979-E948F82BC391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F38B5F-2155-4707-A979-E948F82BC391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F38B5F-2155-4707-A979-E948F82BC391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA34475-5394-4142-8837-829CD8A75A89}
+	EndGlobalSection
+EndGlobal

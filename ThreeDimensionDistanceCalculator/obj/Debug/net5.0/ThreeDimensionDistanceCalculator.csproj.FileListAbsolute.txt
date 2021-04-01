@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ThreeDimensionDistanceCalculator.exe
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ThreeDimensionDistanceCalculator.deps.json
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ThreeDimensionDistanceCalculator.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ThreeDimensionDistanceCalculator.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ThreeDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ref\ThreeDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\bin\Debug\net5.0\ThreeDimensionDistanceCalculator.pdb
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ref\ThreeDimensionDistanceCalculator.dll
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.pdb
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.genruntimeconfig.cache
+C:\Users\TIM ASUS\source\repos\ThreeDimensionDistanceCalculator\obj\Debug\net5.0\ThreeDimensionDistanceCalculator.csprojAssemblyReference.cache

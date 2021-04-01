@@ -6,21 +6,15 @@ namespace Sandbox1
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a number: ");
-            int inputNumber = Console.ReadLine();
+            int n = 7;
+            int[] ar = { 1, 2, 3, 4, 5,};
 
-            Console.WriteLine(MultiplyYourself(inputNumber));
-        }
-
-        static int MultiplyYourself(int x)
-        {
-            if (x > 0)
+            for (int i = 0; i < n; i++)
             {
-                return x* x;
-            }
-            else
-            {
-                return 0;
+                for (int j = i; j < i; j++)
+                {
+                    Console.WriteLine($"{ar[i]} {ar[j]}");
+                }
             }
         }
     }
