@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ClockHandsAngle.exe
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ClockHandsAngle.deps.json
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ClockHandsAngle.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ClockHandsAngle.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ClockHandsAngle.dll
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ref\ClockHandsAngle.dll
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\bin\Debug\net5.0\ClockHandsAngle.pdb
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.dll
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ref\ClockHandsAngle.dll
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.pdb
+C:\Users\TIM ASUS\source\repos\ClockHandsAngle\obj\Debug\net5.0\ClockHandsAngle.genruntimeconfig.cache
