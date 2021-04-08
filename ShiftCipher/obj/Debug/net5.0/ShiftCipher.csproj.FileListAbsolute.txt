@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ShiftCipher.exe
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ShiftCipher.deps.json
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ShiftCipher.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ShiftCipher.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ShiftCipher.dll
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ref\ShiftCipher.dll
+C:\Users\TIM ASUS\source\repos\ShiftCipher\bin\Debug\net5.0\ShiftCipher.pdb
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.dll
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ref\ShiftCipher.dll
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.pdb
+C:\Users\TIM ASUS\source\repos\ShiftCipher\obj\Debug\net5.0\ShiftCipher.genruntimeconfig.cache
