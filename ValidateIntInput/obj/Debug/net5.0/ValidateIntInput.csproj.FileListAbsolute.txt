@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ValidateIntInput.exe
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ValidateIntInput.deps.json
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ValidateIntInput.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ValidateIntInput.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ValidateIntInput.dll
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ref\ValidateIntInput.dll
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\bin\Debug\net5.0\ValidateIntInput.pdb
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.dll
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ref\ValidateIntInput.dll
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.pdb
+C:\Users\TIM ASUS\source\repos\ValidateIntInput\obj\Debug\net5.0\ValidateIntInput.genruntimeconfig.cache
