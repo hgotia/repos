@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading;
 
 namespace PasswordAuthAndEncryption
@@ -59,6 +60,22 @@ namespace PasswordAuthAndEncryption
             }
             return shiftedPassword;
         }
+        private static object Decrypt(string value)
+        {
+            int shift = 10;
+            string shiftedPassword = "";
+
+            foreach (var item in value)
+            {
+                int shiftedItem = item - shift;
+
+                if (shiftedItem < 32)
+                    shiftedItem += 95;
+
+                shiftedPassword += (char)shiftedItem;
+            }
+            return shiftedPassword;
+        }
         public static void GetSelection()
         {
             Console.WriteLine("\n--------------------------------------");
@@ -74,12 +91,24 @@ namespace PasswordAuthAndEncryption
             else if (selection == 2)
                 Authenticate();
             else if (selection == 3)
+            {
+                Console.WriteLine("Accounts made:");
+                Console.WriteLine("[username, encrypted password]");
+
+                for (int i = 0; i < UserAccounts.Count; i++)
+                {
+                    Console.WriteLine(value: $"Username: {UserAccounts.ElementAt(i).Key} - Password: {Decrypt(UserAccounts.ElementAt(i).Value)}");
+                }
+
                 System.Environment.Exit(0);
+            }
         }
+
+
         public static void GoMainMenu()
         {
             Console.WriteLine("\nTaking you back to the Main Menu...");
-            Thread.Sleep(2 * 1000);
+            Thread.Sleep(1 * 1000);
 
             GetSelection();
         }
@@ -107,6 +136,15 @@ namespace PasswordAuthAndEncryption
         {
             Console.Write("\nEnter a username: ");
             string username = Console.ReadLine();
+
+            foreach (var user in UserAccounts.Keys)
+            {
+                if (username == user)
+                {
+                    Console.WriteLine("Username already exists!. Try a different one.");
+                    SignUp();
+                }
+            }
 
             Console.Write("Enter a password: ");
             string password = Console.ReadLine();
