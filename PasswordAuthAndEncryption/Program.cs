@@ -11,7 +11,6 @@ namespace PasswordAuthAndEncryption
         {
             GetSelection();
         }
-
         public static void Authenticate()
         {
             Console.Write("\nEnter a username: ");
@@ -27,7 +26,6 @@ namespace PasswordAuthAndEncryption
             Console.WriteLine("Username not found. Try again.");
             Authenticate();
         }
-
         public static void CheckPassword(string user)
         {
             Console.Write("\nEnter your password: ");
@@ -92,19 +90,11 @@ namespace PasswordAuthAndEncryption
                 Authenticate();
             else if (selection == 3)
             {
-                Console.WriteLine("Accounts made:");
-                Console.WriteLine("[username, encrypted password]");
-
-                for (int i = 0; i < UserAccounts.Count; i++)
-                {
-                    Console.WriteLine(value: $"Username: {UserAccounts.ElementAt(i).Key} - Password: {Decrypt(UserAccounts.ElementAt(i).Value)}");
-                }
+                PrintAllUserAccounts();
 
                 System.Environment.Exit(0);
             }
         }
-
-
         public static void GoMainMenu()
         {
             Console.WriteLine("\nTaking you back to the Main Menu...");
@@ -131,6 +121,16 @@ namespace PasswordAuthAndEncryption
             }
 
             return inputValue;
+        }
+        private static void PrintAllUserAccounts()
+        {
+            Console.WriteLine("Accounts made:");
+            Console.WriteLine("[username, encrypted password]");
+
+            for (int i = 0; i < UserAccounts.Count; i++)
+            {
+                Console.WriteLine(value: $"Username: {UserAccounts.ElementAt(i).Key} - Password: {Decrypt(UserAccounts.ElementAt(i).Value)}");
+            }
         }
         public static void SignUp()
         {
