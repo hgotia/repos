@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\MathGames.exe
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\MathGames.deps.json
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\MathGames.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\MathGames.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\MathGames.dll
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\ref\MathGames.dll
+C:\Users\TIM ASUS\source\repos\MathGames\bin\Debug\net5.0\MathGames.pdb
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.dll
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\ref\MathGames.dll
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.pdb
+C:\Users\TIM ASUS\source\repos\MathGames\obj\Debug\net5.0\MathGames.genruntimeconfig.cache
