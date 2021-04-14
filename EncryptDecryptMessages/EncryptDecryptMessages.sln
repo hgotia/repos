@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptDecryptMessages", "EncryptDecryptMessages.csproj", "{192A3F12-CBF8-472F-9F35-711500F8A42B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CeasarCipher", "..\ShiftCipher\CeasarCipher.csproj", "{8D281073-A1EF-41B3-84F7-75273B60FD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192A3F12-CBF8-472F-9F35-711500F8A42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192A3F12-CBF8-472F-9F35-711500F8A42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192A3F12-CBF8-472F-9F35-711500F8A42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192A3F12-CBF8-472F-9F35-711500F8A42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D281073-A1EF-41B3-84F7-75273B60FD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D281073-A1EF-41B3-84F7-75273B60FD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D281073-A1EF-41B3-84F7-75273B60FD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D281073-A1EF-41B3-84F7-75273B60FD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4917A801-0761-4AD6-BEAA-FC4714BC6D54}
+	EndGlobalSection
+EndGlobal

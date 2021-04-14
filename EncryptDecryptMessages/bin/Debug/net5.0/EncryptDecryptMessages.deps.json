@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EncryptDecryptMessages/1.0.0": {
+        "dependencies": {
+          "CeasarCipher": "1.0.0"
+        },
+        "runtime": {
+          "EncryptDecryptMessages.dll": {}
+        }
+      },
+      "CeasarCipher/1.0.0": {
+        "runtime": {
+          "CeasarCipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncryptDecryptMessages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CeasarCipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
