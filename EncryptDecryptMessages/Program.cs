@@ -10,11 +10,11 @@ namespace EncryptDecryptMessages
             string message = Console.ReadLine();
 
             Console.Write("Enter a keyword or letter: ");
-            string keyWord = Console.ReadLine().ToUpper();
+            string keyWord = Console.ReadLine();
 
             string cleanMessage = removeNonLetters(message);
-            string longKey = elongateWithRepeats(keyWord, cleanMessage);
-            string anotherKey = keyMessageCombo(keyWord, cleanMessage);
+            string longKey = elongateWithRepeats(keyWord.ToUpper(), cleanMessage);
+            string anotherKey = keyMessageCombo(keyWord.ToUpper(), cleanMessage);
 
             Console.WriteLine($"\nYou entered [{message}] as plain text.");
             Console.WriteLine($"You entered [{keyWord}] as your keyword.");
@@ -71,14 +71,14 @@ namespace EncryptDecryptMessages
             return (char)newItem;
         }
 
-        private static string Decipher(string EncryptedMessage, string longKey)
+        private static string Decipher(string cleanMessage, string longKey)
         {
             // Use CharShift
             string result = "";
 
-            for (int i = 0; i < EncryptedMessage.Length; i++)
+            for (int i = 0; i < cleanMessage.Length; i++)
             {
-                result += reverseCharShift(EncryptedMessage[i], longKey[i]);
+                result += reverseCharShift(cleanMessage[i], longKey[i]);
             }
 
             return result;
