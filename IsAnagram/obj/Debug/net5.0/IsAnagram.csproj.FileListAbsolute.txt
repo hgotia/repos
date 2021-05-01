@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\IsAnagram.exe
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\IsAnagram.deps.json
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\IsAnagram.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\IsAnagram.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\IsAnagram.dll
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\ref\IsAnagram.dll
+C:\Users\TIM ASUS\source\repos\IsAnagram\bin\Debug\net5.0\IsAnagram.pdb
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.dll
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\ref\IsAnagram.dll
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.pdb
+C:\Users\TIM ASUS\source\repos\IsAnagram\obj\Debug\net5.0\IsAnagram.genruntimeconfig.cache

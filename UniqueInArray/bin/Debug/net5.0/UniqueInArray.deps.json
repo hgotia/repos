@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UniqueInArray/1.0.0": {
+        "runtime": {
+          "UniqueInArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniqueInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

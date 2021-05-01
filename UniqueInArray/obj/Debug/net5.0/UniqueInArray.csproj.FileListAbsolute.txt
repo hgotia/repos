@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\UniqueInArray.exe
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\UniqueInArray.deps.json
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\UniqueInArray.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\UniqueInArray.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\UniqueInArray.dll
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\ref\UniqueInArray.dll
+C:\Users\TIM ASUS\source\repos\UniqueInArray\bin\Debug\net5.0\UniqueInArray.pdb
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.dll
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\ref\UniqueInArray.dll
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.pdb
+C:\Users\TIM ASUS\source\repos\UniqueInArray\obj\Debug\net5.0\UniqueInArray.genruntimeconfig.cache
