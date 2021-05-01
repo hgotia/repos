@@ -26,7 +26,7 @@ namespace PasswordCracker
         {
             Stopwatch stopWatch = new Stopwatch();
 
-            stopWatch.Start();
+            stopWatch.Start(); 
 
             Thread thread1 = new(() => BruteForce(keys, firstchar, midchar));
             Thread thread2 = new(() => BruteForce(keys, midchar, lastchar));
