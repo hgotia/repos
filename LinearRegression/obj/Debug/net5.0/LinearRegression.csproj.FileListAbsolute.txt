@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\LinearRegression.exe
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\LinearRegression.deps.json
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\LinearRegression.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\LinearRegression.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\LinearRegression.dll
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\ref\LinearRegression.dll
+C:\Users\TIM ASUS\source\repos\LinearRegression\bin\Debug\net5.0\LinearRegression.pdb
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.dll
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\ref\LinearRegression.dll
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.pdb
+C:\Users\TIM ASUS\source\repos\LinearRegression\obj\Debug\net5.0\LinearRegression.genruntimeconfig.cache

@@ -44,6 +44,7 @@ namespace PasswordCracker
             thread4.Join();
 
             stopWatch.Stop();
+
             TimeSpan ts = stopWatch.Elapsed;
             string timeElapsed = $"\nTime taken(h:m:s:ms) - {ts.Hours:00}:{ts.Minutes:00}:{ts.Seconds:00}:{ts.Milliseconds}";
 
