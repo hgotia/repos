@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\IntReverse.exe
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\IntReverse.deps.json
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\IntReverse.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\IntReverse.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\IntReverse.dll
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\ref\IntReverse.dll
+C:\Users\TIM ASUS\source\repos\IntReverse\bin\Debug\net5.0\IntReverse.pdb
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.dll
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\ref\IntReverse.dll
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.pdb
+C:\Users\TIM ASUS\source\repos\IntReverse\obj\Debug\net5.0\IntReverse.genruntimeconfig.cache
