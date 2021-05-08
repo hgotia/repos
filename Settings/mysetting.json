@@ -1,0 +1,12 @@
+{
+  "MotorPool": {
+    "Dantz": "Lamborghini",
+    "Brenden": "Tesla",
+    "Thomas": "VW_Bug"
+  },
+  "MSSA": {
+    "CAD": [ "San Diego", "Quantico", "Camp Lejune" ],
+    "ServerAndCloud": "various locations",
+    "lunch": "burritos"
+  }
+}

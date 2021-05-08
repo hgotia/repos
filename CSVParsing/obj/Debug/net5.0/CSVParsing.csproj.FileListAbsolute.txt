@@ -1,0 +1,16 @@
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\CSVParsing.exe
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\CSVParsing.deps.json
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\CSVParsing.runtimeconfig.json
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\CSVParsing.runtimeconfig.dev.json
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\CSVParsing.dll
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\ref\CSVParsing.dll
+C:\Users\TIM ASUS\source\repos\CSVParsing\bin\Debug\net5.0\CSVParsing.pdb
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.csprojAssemblyReference.cache
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.AssemblyInfoInputs.cache
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.AssemblyInfo.cs
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.csproj.CoreCompileInputs.cache
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.dll
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\ref\CSVParsing.dll
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.pdb
+C:\Users\TIM ASUS\source\repos\CSVParsing\obj\Debug\net5.0\CSVParsing.genruntimeconfig.cache
